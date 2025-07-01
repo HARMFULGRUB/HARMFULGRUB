@@ -34,13 +34,14 @@
 
 ---
 
-<!--### 📎 Featured Projects
+### 📎 Featured Projects
 
-- 🔹 [Flight Ticket Formatter App (PyQt + PDF)](https://github.com/YOUR_USERNAME/flight-ticket-app)  
-  A Python-based app for generating custom PDF flight tickets in a boarding pass style.
-
-- 🔹 [Zomato/Swiggy Data Analysis](https://github.com/YOUR_USERNAME/zomato-swiggy-analysis)  
-  SQL + Python project analyzing food delivery patterns and customer behavior.
+- 🔹 [📊 Hiring Process Analytics](https://github.com/HARMFULGRUB/Hiring-Process-Analytics) 
+      Excel-based project analyzing hiring data from a multinational company:
+      - Salary distribution, gender analysis, department insights
+      - Data cleaning (missing values, typos, duplicates)
+      - Pivot tables, frequency distributions, and class intervals
+      - 📄 [View Report (PDF)](https://github.com/HARMFULGRUB/Hiring-Process-Analytics/blob/main/Hiring_Process_Analytics.pdf)
 
 ---
 
