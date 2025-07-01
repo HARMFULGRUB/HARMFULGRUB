@@ -34,14 +34,14 @@
 
 ---
 
-### 📎 Featured Projects
+## 🚀 Featured Projects
 
-- 🔹 [📊 Hiring Process Analytics](https://github.com/HARMFULGRUB/Hiring-Process-Analytics) 
-  Excel-based project analyzing hiring data from a multinational company:
-      - Salary distribution, gender analysis, department insights
-      - Data cleaning (missing values, typos, duplicates)
-      - Pivot tables, frequency distributions, and class intervals
-      - 📄 [View Report (PDF)](https://github.com/HARMFULGRUB/Hiring-Process-Analytics/blob/main/Hiring_Process_Analytics.pdf)
+### [📊 Hiring Process Analytics](https://github.com/HARMFULGRUB/Hiring-Process-Analytics)
+Excel-based project analyzing hiring data from a multinational company:
+- Salary distribution, gender analysis, department insights
+- Data cleaning (missing values, typos, duplicates)
+- Pivot tables, frequency distributions, and class intervals
+- 📄 [View Report (PDF)](https://github.com/HARMFULGRUB/Hiring-Process-Analytics/blob/main/Hiring%20Process%20Analytics.pdf)
 
 ---
 
