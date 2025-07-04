@@ -49,7 +49,7 @@ SQL-driven analysis project investigating operational performance and metric ano
 - 📁 Case Study 2: User engagement, cohort-based retention, and email performance
 - 🧠 Key techniques: Rolling averages, correlation, PERCENTILE, cohort analysis
 - 📄 [View Report (PDF)](https://github.com/HARMFULGRUB/Operations-Analytics-and-Metric-Spikes/blob/main/Operation_Analytics_and_Investigating_Metric_Spikes.pdf)
-- 
+  
 ---
 
 <!--### 📊 GitHub Stats
