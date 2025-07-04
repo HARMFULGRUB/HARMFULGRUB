@@ -43,6 +43,13 @@ Excel-based project analyzing hiring data from a multinational company:
 - Pivot tables, frequency distributions, and class intervals
 - 📄 [View Report (PDF)](https://github.com/HARMFULGRUB/Hiring-Process-Analytics/blob/main/Hiring%20Process%20Analytics.pdf)
 
+### [📊 Operations Analytics and Metric Spikes](https://github.com/HARMFULGRUB/Operations-Analytics-and-Metric-Spikes)
+SQL-driven analysis project investigating operational performance and metric anomalies in a business context:
+- 📁 Case Study 1: Job review throughput, language share, and duplicates
+- 📁 Case Study 2: User engagement, cohort-based retention, and email performance
+- 🧠 Key techniques: Rolling averages, correlation, PERCENTILE, cohort analysis
+- 📄 [View Report (PDF)](https://github.com/HARMFULGRUB/Operations-Analytics-and-Metric-Spikes/blob/main/Operation_Analytics_and_Investigating_Metric_Spikes.pdf)
+- 
 ---
 
 <!--### 📊 GitHub Stats
