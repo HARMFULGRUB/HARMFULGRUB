@@ -36,6 +36,14 @@
 
 ## 🚀 Featured Projects
 
+### [📊 IMDB Movie Analysis](https://github.com/HARMFULGRUB/IMDB-Movie-Analysis)
+Excel-based project analyzing movie data to uncover factors behind high IMDB ratings:
+- Genre-wise statistics, duration impact, language & director influence
+- Data cleaning (missing values, irrelevant columns, duplicates)
+- Pivot tables, correlation analysis, descriptive statistics, and visualizations
+- 📄 [View Report (PDF)](https://github.com/HARMFULGRUB/IMDB-Movie-Analysis/blob/main/IMDB_Movie_Analysis.pdf)
+- 📺 [View Video Presentation](https://www.loom.com/share/a35a57a9b70b4ef7aa3de573160bf621?sid=d9515e38-fb14-4e65-9a82-22ae1dafd55c)
+
 ### [📊 Hiring Process Analytics](https://github.com/HARMFULGRUB/Hiring-Process-Analytics)
 Excel-based project analyzing hiring data from a multinational company:
 - Salary distribution, gender analysis, department insights
