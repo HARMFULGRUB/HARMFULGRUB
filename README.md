@@ -36,7 +36,7 @@
 
 ## 🚀 Featured Projects
 
-### [🏦 Bank Loan Default Case Study](https://github.com/HARMFULGRUB/Bank-Loan-Case-Study)
+### [🏦 Bank Loan Case Study](https://github.com/HARMFULGRUB/Bank-Loan-Case-Study)
 Excel-based exploratory data analysis to identify risk factors for loan defaults in a finance company:  
 - Cleaned and imputed missing values, removed outliers, and flagged invalid entries like “XNA” in gender  
 - Performed univariate, segmented, and bivariate analysis using pivot tables and Excel formulas  
