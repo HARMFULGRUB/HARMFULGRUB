@@ -36,6 +36,14 @@
 
 ## 🚀 Featured Projects
 
+### [🏦 Bank Loan Default Case Study](https://github.com/HARMFULGRUB/Bank-Loan-Case-Study)
+Excel-based exploratory data analysis to identify risk factors for loan defaults in a finance company:  
+- Cleaned and imputed missing values, removed outliers, and flagged invalid entries like “XNA” in gender  
+- Performed univariate, segmented, and bivariate analysis using pivot tables and Excel formulas  
+- Identified top correlations with defaults using `CORREL`, visualized insights with heatmaps and charts  
+- 📄 [View Report (PDF)](https://github.com/HARMFULGRUB/Bank-Loan-Case-Study/blob/main/Bank%20Loan%20Case%20Study%20-%20Ashiq%20Paul.pdf) 
+- 📺 [View Video Presentation](https://www.loom.com/share/1083c3158c22431693d7dbdd0017e3ff?sid=5059acab-b36f-4ab7-9992-14ee82ac7438) 
+
 ### [📊 IMDB Movie Analysis](https://github.com/HARMFULGRUB/IMDB-Movie-Analysis)
 Excel-based project analyzing movie data to uncover factors behind high IMDB ratings:
 - Genre-wise statistics, duration impact, language & director influence
