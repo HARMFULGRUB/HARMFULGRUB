@@ -36,6 +36,13 @@
 
 ## 🚀 Featured Projects
 
+### [⚡ Electric Vehicle Analysis Dashboard](https://github.com/HARMFULGRUB/Electric-Vehicle-Analysis-Dashboard)
+Power BI project analyzing 150K+ EV records to uncover adoption trends, manufacturer dominance, and regional distribution across the U.S.
+- Built interactive dashboard with filters, KPIs, and time-series analysis
+- Identified Tesla as market leader (~68K vehicles) and BEVs as ~78% of total
+- Visualized growth trends, geographic distribution, and model-level insights
+- Tools: Power BI (DAX, Power Query), Excel
+
 ### [🏦 Bank Loan Case Study](https://github.com/HARMFULGRUB/Bank-Loan-Case-Study)
 Excel-based exploratory data analysis to identify risk factors for loan defaults in a finance company:  
 - Cleaned and imputed missing values, removed outliers, and flagged invalid entries like “XNA” in gender  
