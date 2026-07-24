@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Ashiq Paul</h1>
-<h3 align="center">Aspiring Data Analyst | MBA Graduate | Analytics Explorer</h3>
+<h3 align="center">Data Analyst | MBA Graduate | Analytics Explorer</h3>
 
 <!-- Banner or GIF -->
 <p align="center">
